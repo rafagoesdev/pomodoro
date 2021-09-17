@@ -1,6 +1,7 @@
 ### My first challenge at Scrimba!
 
 A simple Pomodoro timer to focus on work/study
+![alt Pomodoro](pom.png)
 
 - Work: A timer with 25 minutes for WORK 👨‍🏭👩‍🏭⌨️
 - Short break: A timer with 5 minutes for a coffee time ☕
