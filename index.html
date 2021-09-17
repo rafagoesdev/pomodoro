@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="container">
+            <p id="type">Pomodoro</p>
+            <div class="timer">
+                <p id="time-display">00:00</p>
+            </div>
+            <p id="focused">Total time</p>
+            <div class="button-container">
+                <button id="work-btn" onclick="startPom(25)">Work</button>
+                <button id="short-break-btn" onclick="startPom(5)">Short break</button>
+                <button id="long-break-btn" onclick="startPom(15)">Long break</button>
+            </div>
+            <button id="pause" onclick="pause()">Pause</button>
+        </div>
+        <script src="index.pack.js"></script>
+    </body>
+</html>
